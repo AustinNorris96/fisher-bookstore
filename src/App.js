@@ -18,6 +18,7 @@ export default class App extends Component {
             <Nav>
               <NavItem>
                 <Nav.Link href="/Books">Books</Nav.Link>
+                <Nav.Link href="/Authors">Authors</Nav.Link>
               </NavItem>
             </Nav>
           </Navbar.Collapse>
